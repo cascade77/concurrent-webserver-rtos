@@ -1,7 +1,7 @@
-<img width="1640" height="959" alt="Screenshot from 2025-12-14 09-14-25" src="https://github.com/user-attachments/assets/84a0ea64-377c-418d-9ed7-75b146dac398" /># concurrent-webserver-rtos
 A concurrent web server simulation running on FreeRTOS with RISC-V architecture in QEMU. Built to understand how operating systems handle multiple tasks competing for resources.
 
-![Simulation Output](screenshots/simulation.png)
+<img width="586" height="851" alt="image" src="https://github.com/user-attachments/assets/0d2ae6d1-d922-4aaf-8858-74a7c943ef8f" />
+
 
 ## What This Does
 
